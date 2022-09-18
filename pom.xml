@@ -93,6 +93,9 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+
+		<finalName>Projecto-Softinsa-Container</finalName>
+
 	</build>
 
 </project>
